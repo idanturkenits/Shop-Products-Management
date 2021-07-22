@@ -1,1 +1,1 @@
-# Shop-Products-Management
+# Shop & Products Management
